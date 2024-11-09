@@ -7,7 +7,7 @@ import {
   Routes,
   Route
 } from 'react-router-dom'
-import Home from './home'
+import Home from './Home'
 import Martketing from './Martketing'
 import Tecnologia from './Tecnologia'
 import Productoa from './Productoa'
